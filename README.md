@@ -10,3 +10,4 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 | --------------------------------------------------------------------------------------- |:------------:|
 | [David Okun](https://github.com/raywenderlich/video-pds22-materials/tree/versions/1.0/01-david-okun) | 2022-01-26   |
 | [Marin Todorov](https://github.com/raywenderlich/video-pds22-materials/tree/versions/1.0/02-marin-todorov) | 2022-02-24   |
+| [Aaron Douglas](https://github.com/raywenderlich/video-pds22-materials/tree/versions/1.0/03-aaron-douglas) | 2022-03-30   |
