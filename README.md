@@ -12,3 +12,4 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 | [Marin Todorov](https://github.com/raywenderlich/video-pds22-materials/tree/versions/1.0/02-marin-todorov) | 2022-02-24   |
 | [Aaron Douglas](https://github.com/raywenderlich/video-pds22-materials/tree/versions/1.0/03-aaron-douglas) | 2022-03-30   |
 | [Kotlin Multiplatform](https://github.com/raywenderlich/video-pds22-materials/tree/versions/1.0/04-kotlin-multiplatform) | 2022-04-27   |
+| Felicity Johnson (No Materials) | 2022-06-15   |
